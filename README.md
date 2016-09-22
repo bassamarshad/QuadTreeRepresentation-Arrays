@@ -1,6 +1,8 @@
-# QuadTreeRepresentation-Arrays
- Java (NetBeans Project) - QuadTree Segmentation of an Image -Digital Image Processing App 
- #Results
+#QuadTreeRepresentation-Arrays
+
+Java (NetBeans Project) - QuadTree Segmentation of an Image -Digital Image Processing App 
+ 
+#Results
  
 ![Alt text](/QuadTreeRepresentation-Arrays/originalBinaryimageqtreeDecomposed-ex1.jpg?raw=true "Result 1")
  
